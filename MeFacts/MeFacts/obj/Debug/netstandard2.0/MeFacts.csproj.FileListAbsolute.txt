@@ -1,0 +1,12 @@
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.csprojAssemblyReference.cache
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.AssemblyInfoInputs.cache
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.AssemblyInfo.cs
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.csproj.CoreCompileInputs.cache
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\bin\Debug\netstandard2.0\MeFacts.deps.json
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\bin\Debug\netstandard2.0\MeFacts.dll
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\bin\Debug\netstandard2.0\MeFacts.pdb
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.dll
+C:\Users\jmotl\RiderProjects\MeFacts\MeFacts\MeFacts\obj\Debug\netstandard2.0\MeFacts.pdb
